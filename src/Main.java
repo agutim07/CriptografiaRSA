@@ -14,7 +14,6 @@ public class Main {
     public static int MOD = 0;
 
     public static void main(String[] args) {
-
         //CIFRAMOS EL ALFABETO
         String alf = "abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZáéíóúÁÉÍÓÚ0123456789 ,.:!-¿?()";
         ArrayList<Alfabeto> alfabeto = new ArrayList<>();
